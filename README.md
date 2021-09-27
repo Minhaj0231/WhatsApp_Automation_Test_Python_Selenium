@@ -23,7 +23,7 @@ This project is for Whats_App Web automation test Python, Selenium, Unit Test, H
 
 ### to generate  html report or run single test cases  run 
 
-###  TC001_search_test.py/TC002_send_message.py/TC003_successfully_msg_sent.py/TC004_msg_seen.py/TC005_log_out.py files from tests directory, 
+###                                         TC001_search_test.py/TC002_send_message.py/TC003_successfully_msg_sent.py/TC004_msg_seen.py/TC005_log_out.py files from tests directory, 
 
 ### To run all the test cases run test_suit.py  lcoated in the parent folder 
 
