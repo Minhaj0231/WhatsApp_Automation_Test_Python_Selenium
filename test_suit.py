@@ -16,10 +16,10 @@ if __name__ == "__main__" :
     test_suite = TestSuite((
 
         test_loader.loadTestsFromTestCase(SearchTest),
-        # test_loader.loadTestsFromTestCase(SendMessageTest),
-        # test_loader.loadTestsFromTestCase(SuccessFullyMsgSent),
-        # test_loader.loadTestsFromTestCase(MsgSeen),
-        # test_loader.loadTestsFromTestCase(LogOutTest)
+        test_loader.loadTestsFromTestCase(SendMessageTest),
+        test_loader.loadTestsFromTestCase(SuccessFullyMsgSent),
+        test_loader.loadTestsFromTestCase(MsgSeen),
+        test_loader.loadTestsFromTestCase(LogOutTest)
 
         
 
