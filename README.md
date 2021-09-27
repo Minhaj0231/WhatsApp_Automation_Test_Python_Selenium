@@ -1,5 +1,5 @@
 # WhatsApp_Automation_Test_Python_Selenium
-This project is for Whats_App Web automation test Python, Selenium, Unit Test,  openpyxl, Html Report, page object model (POM) are used in this project. WhatsApp number is taken from exel file and  result are written in the exwl file. aslo html reprort is generated for every test cases
+This project is for Whats_App Web automation test Python, Selenium, Unit Test,  openpyxl, Html Report, page object model (POM) are used in this project. WhatsApp number is taken from exel file and  result are written in the exel file. Aslo html reprort is generated for every test cases
 
 ## Test Cases 
 ### TC001, file = TC001_search_test.py,             Test Scenario = Verify search number working properl
