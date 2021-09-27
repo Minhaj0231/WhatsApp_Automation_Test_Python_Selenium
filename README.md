@@ -16,6 +16,7 @@ This project is for Whats_App Web automation test Python, Selenium, Unit Test,  
 
 ### clone the project
 ### create virtual env, activate Virtual env
+### install all packages from requirements.txt  
 ### create a exel file with valid whatsApp number in 
 ### Sheet1  cell(1,1), add the path of the exel file in   exel_file_path variable in   WhatsApp_Automation_Test_Python_Selenium/utils/locators.py file 
 
