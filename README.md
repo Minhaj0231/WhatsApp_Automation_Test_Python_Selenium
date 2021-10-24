@@ -2,7 +2,7 @@
 This project is for Whats_App Web automation test Python, Selenium, Unit Test,  openpyxl, Html Report, page object model (POM) are used in this project. WhatsApp number is taken from exel file and  result are written in the exel file. Aslo html reprort is generated for every test cases
 
 ## Test Cases 
-### TC001, file = TC001_search_test.py,             Test Scenario = Verify search number working properl
+### TC001, file = TC001_search_test.py,             Test Scenario = Verify search number working properly
 ### TC002, file = TC002_send_message.py,            Test Scenario = Verify send message working properly
 ### TC003, file = TC003_successfully_msg_sent.py,   Test Scenario = Verify successfully send message
 ### TC004, file = TC004_msg_seen.py,                Test Scenario = Verify sent message status
